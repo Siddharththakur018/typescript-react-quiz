@@ -49,3 +49,4 @@ export default tseslint.config({
 })
 ```
 "# typescript-react-quiz" 
+"# typescript-react-quiz" 
